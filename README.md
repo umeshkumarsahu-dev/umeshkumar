@@ -3,11 +3,11 @@
  
 ---
 
-- 🔭 I’m currently working at **FixingDots** as a Software Developer  
+- 🔭 I’m currently working at **Shree Ram Finance** as a Software Developer  
 - 🌱 I’m learning **ReactJS**, **Advanced DSA**, and improving **System Design**
 - 👨‍💻 Check out my portfolio: [https://sahuumesh.github.io/portfolio](https://sahuumesh.github.io/portfolio)
-- 👯 I’m open to collaborate on **Web Development** and **AI Projects**
-- 🧠 Exploring **Laravel Livewire**, **Flutter**, and **Machine Learning**
+- 👯 I’m open to collaborate on **Web Development** 
+- 🧠 Exploring **Laravel Livewire**
 - 💬 Ask me about **Laravel**, **JavaScript**, **Livewire**, and **DSA**
 - 📫 How to reach me: **sahuumesh540@gmail.com**
 - 🧑‍💻 LinkedIn: [linkedin.com/in/umeshkumarsahu-dev](https://linkedin.com/in/umeshkumarsahu-dev)
